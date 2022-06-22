@@ -1,0 +1,25 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "task tracking application",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justokes1/taskTracker.git"
+  },
+  "author": "Justin Stokes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justokes1/taskTracker/issues"
+  },
+  "homepage": "https://github.com/Justokes1/taskTracker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
