@@ -1,7 +1,7 @@
 {
   "name": "tasktracker",
   "version": "1.0.0",
-  "description": "task tracking application",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
@@ -17,9 +17,7 @@
   },
   "homepage": "https://github.com/Justokes1/taskTracker#readme",
   "dependencies": {
-    "express": "^4.18.1"
-  },
-  "devDependencies": {
+    "express": "^4.18.1",
     "nodemon": "^2.0.16"
   }
 }
